@@ -1,0 +1,31 @@
+{
+  "restaurant": {
+    "name": "PETALS",
+    "tagline": "Beauty, flavor, and comfort in every experience.",
+    "description": "We bring beauty, flavor, and comfort to your day. Experience our exquisite breakfast, delightful brunch, fresh flowers, and cozy guest rooms."
+  },
+  "address": {
+    "street": "Welhengoda, Wimalasara mawatha",
+    "city": "Ahangama",
+    "postalCode": "80650",
+    "country": "Sri Lanka"
+  },
+  "contact": {
+    "phone": "0763890511",
+    "email": "hello@petalsrestaurant.com"
+  },
+  "hours": {
+    "weekdays": "Monday - Friday: 7:00 AM - 3:00 PM",
+    "weekends": "Saturday - Sunday: 8:00 AM - 4:00 PM",
+    "status": "Currently Closed"
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "twitter": ""
+  },
+  "links": {
+    "uberEats": "https://www.ubereats.com/lk/store/petals-ahangama/8b98z2zGW9eB1iqXcu5i1Q",
+    "googleReviews": "https://www.google.com/travel/search?q=Petals%20Reviews&g2lb=4965990,4969803,72277293,72302247,72317059,72414906,72471280,72472051,72481459,72485658,72560029,72573224,72616120,72647020,72648289,72686036,72760082,72803964,72832976,72882230,72885032,72946003,72948010,72953362,72958594,72958624,72959983,72969407&hl=en-LK&gl=lk&cs=1&ssta=1&ts=CAEaKwopEicyJTB4M2FlMTEzMDBkMWEzOTBhZjoweDI0NTVkNjkwMjhkYTdiYzE&qs=CAEyE0Nnb0l3ZmZweG9MUzlhb2tFQUU4Ag&ap=ugEHcmV2aWV3cw&ictx=111&ved=0CAAQ5JsGahcKEwiwhIO_sbyNAxUAAAAAHQAAAAAQCw"
+  }
+}
