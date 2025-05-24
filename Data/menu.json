@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "category": "Breakfast",
+      "items": [
+        {
+          "name": "Petals Benedict",
+          "description": "Poached eggs, hollandaise, fresh herbs",
+          "price": "$18"
+        },
+        {
+          "name": "Lavender French Toast",
+          "description": "Brioche, lavender honey, seasonal berries",
+          "price": "$16"
+        },
+        {
+          "name": "Garden Omelet",
+          "description": "Farm eggs, seasonal vegetables, goat cheese",
+          "price": "$15"
+        },
+        {
+          "name": "Avocado Rose Toast",
+          "description": "Sourdough, avocado roses, microgreens",
+          "price": "$14"
+        }
+      ]
+    },
+    {
+      "category": "Brunch",
+      "items": [
+        {
+          "name": "Flower Power Bowl",
+          "description": "Quinoa, roasted vegetables, edible flowers",
+          "price": "$19"
+        },
+        {
+          "name": "Salmon & Roses",
+          "description": "Smoked salmon, cream cheese, rose petals",
+          "price": "$22"
+        },
+        {
+          "name": "Botanical Pancakes",
+          "description": "Buttermilk pancakes, floral syrup, fresh fruit",
+          "price": "$17"
+        },
+        {
+          "name": "Mimosa Flight",
+          "description": "Three seasonal mimosas with edible flowers",
+          "price": "$24"
+        }
+      ]
+    }
+  ]
+}

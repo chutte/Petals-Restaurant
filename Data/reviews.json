@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "averageRating": "5.0",
+    "totalCustomers": "80+",
+    "recommendationRate": "100%"
+  },
+  "reviews": [
+    {
+      "name": "Kristina S.",
+      "rating": 5,
+      "review": "Best breakfast & lunch spot with the best prices! Go there if you are looking for the best place. For 1800 you get a whole menu with drink e.g. Iced latte with coconut milk, your main avo toast with egg & a side like a fruit plate. And everything tastes so good! They were so nice here. Little family restaurant 😍. We loved it here and came back three times.",
+      "date": "2 months ago"
+    },
+    {
+      "name": "Carolin",
+      "rating": 5,
+      "review": "What a gem! I came to this place for a late breakfast and couldn’t have found anything better. Really nice avocado toast, that even comes with a drink and a side for a really good price. This place is run by the absolute sweetest and kindest family. Do not miss out on visiting this place, 10/10 recommend!",
+      "date": "3 months ago"
+    },
+    {
+      "name": "Kirsi Pitkänen",
+      "rating": 5,
+      "review": "The friendliest service, the loveliest smiles, and the best breakfast in the town!Avocado toast, breakfast tacos, fruit plates, coffee… simply delicious! I love to start my mornings here!",
+      "date": "4 months ago"
+    },
+    {
+      "name": "Michael Thompson",
+      "rating": 5,
+      "review": "Petals offers an experience unlike any other. The combination of exceptional food, beautiful flowers, and warm hospitality creates something truly special. The mimosa flight was incredible!",
+      "date": "1 month ago"
+    },
+    {
+      "name": "Lisa Park",
+      "rating": 5,
+      "review": "The most romantic brunch spot in the city! My partner and I loved every moment. The salmon & roses dish was both beautiful and delicious. The guest room was the perfect touch for our weekend getaway.",
+      "date": "5 weeks ago"
+    },
+    {
+      "name": "David Wilson",
+      "rating": 5,
+      "review": "Even though they're temporarily closed, I'm still ordering from them on Uber Eats. The quality remains exceptional, and you can taste the love in every bite. Can't wait for the full experience again!",
+      "date": "1 week ago"
+    }
+  ]
+}
